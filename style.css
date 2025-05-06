@@ -117,7 +117,8 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://img.freepik.com/free-photo/barista-using-coffee-machine-cafe_1150-8038.jpg?ga=GA1.1.1043887889.1745545120&semt=ais_hybrid&w=740");
   background-size: cover;
   background-position: center;
   height: 50vh;
