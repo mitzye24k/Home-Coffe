@@ -1,6 +1,6 @@
 /* Global Styles */
 :root {
-  --primary-color: #f59db7;
+  --primary-color: #000000;
   --secondary-color: #c0392b;
   --dark-color: #2c3e50;
   --light-color: #ecf0f1;
@@ -19,6 +19,10 @@ body {
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--white);
+}
+
+#size {
+  font-size: 1rem;
 }
 
 .container {
