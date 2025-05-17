@@ -1,8 +1,10 @@
 /* Global Styles */
+@import url("https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap");
+
 :root {
   --primary-color: #000000;
   --secondary-color: #c0392b;
-  --dark-color: #2c3e50;
+  --dark-color: #300d0d;
   --light-color: #ecf0f1;
   --text-color: #333;
   --white: #fff;
@@ -15,7 +17,7 @@
 }
 
 body {
-  font-family: "Koulen", "Arial", sans-serif;
+  font-family: "Kdam Thmor Pro", sans-serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--white);
